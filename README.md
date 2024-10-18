@@ -4,14 +4,14 @@
 ## Base URL = https://roxiler-be.onrender.com
 
 ### Display data for search and filteration for particular month
-     api/products/transactions
+     api/products/transactions?month=''&search=''
 
 ### Display data statistics for particular month
-    api/products/sales
+    api/products/sales?month=''
 
 ### Display data for Pie chart for particular month
-    api/products/category
+    api/products/category?month=''
 
 ### Display data for Bar chart for particular month
-     api/products/bar-chart
+     api/products/bar-chart?month=''
 
